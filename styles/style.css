@@ -51,6 +51,7 @@ img {
     line-height: 137.5%;
     letter-spacing: -0.96px;
     margin-bottom: 64px;
+    text-transform: capitalize;
 }
 
 .testimonials-list {
@@ -81,6 +82,7 @@ img {
 .testimonials-name {
     color: #FCF9F9;
     text-align: center;
+    text-transform: capitalize;
     font-family: Manrope;
     font-size: 20px;
     font-weight: 600;
